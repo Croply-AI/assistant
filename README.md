@@ -168,9 +168,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 Built by farmers, developers, and Web3 builders.
 
-- **Anda** — Founder & Business Development, Polkadot Ambassador
-- **Hope Clary** — CTO, Polkadot Veteran (United States)
-- **AbeCryp** — Head of Marketing, Polkadot Ambassador
+- **Anda** (https://x.com/dgreatanda) - Founder & Business Development, Polkadot Ambassador
+- **Hope Clary** (https://x.com/Hopeioum) — CTO, Polkadot Veteran (United States)
+- **AbeCryp** (https://x.com/Claris_writehttps) — Content Lead, Polkadot Ambassador
 - *Open roles: Mobile Developer, AI/ML Engineer*
 ---
 
