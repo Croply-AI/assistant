@@ -170,7 +170,7 @@ Built by farmers, developers, and Web3 builders.
 
 - **Anda** (https://x.com/dgreatanda) - Founder & Business Development, Polkadot Ambassador
 - **Hope Clary** (https://x.com/Hopeioum) — CTO, Polkadot Veteran (United States)
-- **AbeCryp** (https://x.com/Claris_writehttps) — Content Lead, Polkadot Ambassador
+- **AbeCryp** (https://x.com/Claris_write) — Content Lead
 - *Open roles: Mobile Developer, AI/ML Engineer*
 ---
 
