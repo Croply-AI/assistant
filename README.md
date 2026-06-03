@@ -169,10 +169,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 Built by farmers, developers, and Web3 builders.
 
 - **Anda** (https://x.com/dgreatanda) - Founder & Business Development, Polkadot Ambassador
-- **Hope Clary** (https://x.com/Hopeioum) — CTO, Polkadot Veteran (United States)
-- **AbeCryp** (https://x.com/Claris_write) — Content Lead
-- **QueenEsther** (https://www.linkedin.com/in/queenesther-ozioma-b56569245) Legal Adviser
-- *Open roles: Mobile Developer, AI/ML Engineer*
+- **OlaFemi** (https://x.com/OlahFemi) - Smart Contract Engineer 
+- **AbeCryp** (https://x.com/Claris_write) - AI Specialist
+- **Truth** (https://github.com/truthixify) - ZK Engineer
 ---
 
 ## Links
